@@ -1,0 +1,11 @@
+.pyc
+*~
+.vscode
+__pycache__
+.DS_Store
+.vscode
+.env
+*.db
+node_modules
+.idea
+env

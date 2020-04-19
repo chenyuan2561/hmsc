@@ -6,6 +6,4 @@ __pycache__
 .vscode
 .env
 *.db
-node_modules
-.idea
 env
